@@ -1,0 +1,37 @@
+{
+    "posts":[
+    {
+        "id":1,
+        "title":"cách lấu phở bò truyền thống",
+        "body":"Hướng dân chi tiết"
+    },
+    {
+        "id":2,
+        "title":"Ồ ạt sang nhượng chung cư cao cấp sau vài tháng đặt mua",
+        "body":"Vài tháng sau khi booking dự án mới thất bại, nhiều nhà đầu tư liên tục được môi giới chào mua giỏ hàng căn hộ sang nhượng với khoản chênh giảm 80-100%."
+    },
+    {
+        "id":3,
+        "title":"Phẫu thuật robot có thể thay đổi thế hệ bác sĩ tương lai",
+        "body":"Trong tương lai, sinh viên y khoa có thể phải học cách sử dụng robot và ứng dụng vào việc phẫu thuật bệnh nhân khi họ trở thành bác sĩ. "
+    },
+    {
+        "id":4,
+        "title":"Các tỉnh thành lần lượt công bố lương, thưởng Tết",
+        "body":"Long An năm thứ hai dẫn đầu cả nước về thưởng Tết Âm lịch với cao nhất 519 triệu đồng, trong khi Thanh Hóa thưởng thấp nhất 70.000 đồng, tính đến ngày 17/12."
+    },
+    {
+        "id":5,
+        "title":"Người đánh tài xế ở Bình Phước khai do say rượu",
+        "body":"Làm việc với công an, Bùi Văn Hoàng Anh - người đánh tài xế tới tấp khi dừng đèn đỏ, thừa nhận hành vi, cho là lúc đó say rượu không làm chủ được bản thân, rất hối hận."
+    }
+],
+    "user":[
+        {
+            "id":1,
+            "username":"elite",
+            "email":"sheamus201515@gmail.com"
+        }
+    ]
+
+}
